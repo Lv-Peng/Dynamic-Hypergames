@@ -1,2 +1,2 @@
 # Dynamic-Hypergames-for-Synthesis-of-Optimal-Deceptive-Strategies-for-Cyclic-Tasks
-[Simulation and Experiment Video](https://github.com/sessions/verified-device)
+[Simulation and Experiment Video](https://www.youtube.com/watch?v=ol5ehNUZPbE)
