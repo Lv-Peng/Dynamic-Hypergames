@@ -1,2 +1,0 @@
-single是单车，多车可以开多个single，multi不能用
-注意版本更新时改CMakelist，修改代码后要cmake
