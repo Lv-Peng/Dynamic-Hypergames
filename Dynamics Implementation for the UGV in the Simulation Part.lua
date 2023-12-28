@@ -1,6 +1,6 @@
 function sysCall_init()
     corout=coroutine.create(coroutineMain)
-    path={0,1,9,3,4,5,6,7,8,10,11,14,12,13,8}--starting from g_1
+    path1={0,1,9,3,4,5,6,7,8,10,11,14,12,13,8}--starting from g_1
 
     k=300/180*math.pi
     
